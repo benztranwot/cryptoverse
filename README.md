@@ -7,12 +7,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [View Live Site](https://cryptoverse-benz.netlify.app/)
 
-## To run this project
-
-1. Clone this repository
-2. Run `npm install`
-3. Run `npm run start`
-
 ## Built with
 
 - [React](https://reactjs.org/)
