@@ -1,11 +1,9 @@
 # Cryptoverse
 
+[View Live Site](https://cryptoverse-benz.netlify.app/)
+
 A React Frontend application provides the latest crypto prices and news from Rapid API. Taught by Javascript Mastery.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Demo
-
-[View Live Site](https://cryptoverse-benz.netlify.app/)
 
 ## Built with
 
